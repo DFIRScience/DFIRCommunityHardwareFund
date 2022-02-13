@@ -2,12 +2,18 @@
 
 The DFIR Community Hardware Fund is a place to pool resources to purchase more expensive devices for community research. Desired hardware is identifed by the community, funds are raised to purchase the device, data sets are generated and released to the community, the hardware is shared for research among the funders. Donate to the DFIR Community Hardware Fund [here](https://www.paypal.com/donate/?hosted_button_id=S3GXPSXT8QRGL).
 
+Do you have a hardware recommendation? [Contact DFIRScience](https://dfir.science/contact).
+
 ## Hardware Projects
+
+Last updated: 2022-02-13
 
 Below are the list of hardware projects being funded. Prices include taxes and shipping.
 
 * **Meta Quest 2** ![Progress](https://progress-bar.dev/60/?scale=317&width=200&color=babaca&suffix=$)
   * Price: $317.69 | Funded: $60.14
+
+* General DFIR Community Funds: $51.99
 
 ## Data Sets
 
