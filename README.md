@@ -15,6 +15,13 @@ Below are the list of hardware projects being funded. Prices include taxes and s
 
 * General DFIR Community Funds: $51.99
 
+## Donors
+
+Thank you so much to all of the DFIR Community Hardware Donors! Public donors are listed below (a-z):
+
+* Alexis Brignoni | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[Brigs](https://twitter.com/AlexisBrignoni) | [https://linqapp.com/abrignoni](https://linqapp.com/abrignoni)
+* Joshua James | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[DFIRScience](https://twitter.com/dfirscience) | [https://www.youtube.com/DFIRScience](https://www.youtube.com/DFIRScience?sub_confirmation=1)
+
 ## Data Sets
 
 ## About this Fund
@@ -26,6 +33,8 @@ Learn more about us and the rules of the fund.
 A few days ago, Alexis Brignoni posted a [tweet](https://twitter.com/AlexisBrignoni/status/1490758627489103882?s=20&t=dPy6eilC_Vf0p5lK39WTXw) about the increased usage of the *Meta Quest 2* hardware. It's one of many devices that digital investigators will likely need to analyze in the near future. The problem is that devices like these are quite expensive for individual researchers. This means access to high-quality hardware information and data sources provided by a few [exceedingly generous individuals](https://thebinaryhick.blog/2021/12/17/android-12-image-now-available/).
 
 One answer to this challenge is for the community to pool resources. Researchers interested in a specific topic can propose hardware to be studied. The community then contributes funding for the hardware they are most interested in researching. We then use funded projects to purchase the hardware, create and release free test data sets for the community, and manage hardware distribution to other researchers and labs for their testing. Theoretically, this would give the entire community much faster access to data sets. That means more eyes on new devices and a faster research-to-investigation pipeline.
+
+See the full reasoning for this fund here: [https://dfir.science/2022/02/DFIR-Community-Hardware-Fund](https://dfir.science/2022/02/DFIR-Community-Hardware-Fund)
 
 ### Rules
 
