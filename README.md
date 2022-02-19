@@ -6,12 +6,12 @@ Do you have a hardware recommendation? [Contact DFIRScience](https://dfir.scienc
 
 ## Hardware Projects
 
-Last updated: 2022-02-13
+Last updated: 2022-02-19
 
 Below are the list of hardware projects being funded. Prices include taxes and shipping.
 
-* **Meta Quest 2** ![Progress](https://progress-bar.dev/60/?scale=317&width=200&color=babaca&suffix=$)
-  * Price: $317.69 | Funded: $60.14
+* **Meta Quest 2** ![Progress](https://progress-bar.dev/81/?scale=317&width=200&color=babaca&suffix=$)
+  * Price: $317.69 | Funded: $81.24
 
 * General DFIR Community Funds: $51.99
 
