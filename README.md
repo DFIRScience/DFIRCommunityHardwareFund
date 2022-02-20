@@ -20,6 +20,7 @@ Below are the list of hardware projects being funded. Prices include taxes and s
 Thank you so much to all of the DFIR Community Hardware Donors! Public donors are listed below (a-z):
 
 * Alexis Brignoni | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[Brigs](https://twitter.com/AlexisBrignoni) | [https://linqapp.com/abrignoni](https://linqapp.com/abrignoni)
+* Derek Eiri
 * Joshua James | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[DFIRScience](https://twitter.com/dfirscience) | [https://www.youtube.com/DFIRScience](https://www.youtube.com/DFIRScience?sub_confirmation=1)
 
 ## Data Sets
