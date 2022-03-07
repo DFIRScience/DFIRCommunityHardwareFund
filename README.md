@@ -11,8 +11,8 @@ Last updated: 2022-02-24
 
 Below are the list of hardware projects being funded. Prices include taxes and shipping.
 
-* **Meta Quest 2** ![Progress](https://progress-bar.dev/149/?scale=317&width=200&color=babaca&suffix=$)
-  * Price: $317.69 | Funded: $149.56
+* **Meta Quest 2** ![Progress](https://progress-bar.dev/170/?scale=317&width=200&color=babaca&suffix=$)
+  * Price: $317.69 | Funded: $170.66
 
 * General DFIR Community Funds: $51.99
 
