@@ -15,7 +15,7 @@ Below are the list of hardware projects being funded. Prices include taxes and s
   * Price: $317.69 | Funded: $220.66
   * General used: $97.03
 
-* General DFIR Community Funds: **$126.44**
+* General DFIR Community Funds: **$228.43**
 
 ## Donors
 
