@@ -25,6 +25,8 @@ Thank you so much to all of the DFIR Community Hardware Donors! Public donors ar
 * Joshua James        | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[DFIRScience](https://twitter.com/dfirscience) | [YouTube](https://www.youtube.com/DFIRScience?sub_confirmation=1)
 * Troy Schnack        | ![twitter_logo](http://i.imgur.com/wWzX9uB.png)[TroySchnack](https://twitter.com/TroySchnack) | [Blog](https://troy4n6.blogspot.com/) | [GitHub](https://github.com/TroySchnack)
 
+* And big ♥ to anonymous donors!
+
 ## Data Sets
 
 ## About this Fund
