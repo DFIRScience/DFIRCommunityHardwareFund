@@ -28,6 +28,7 @@ Thank you so much to all of the DFIR Community Hardware Donors! Public donors ar
 | Derek Eiri | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[MrEerie](https://twitter.com/MrEerie) | |
 | Joshua James | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[DFIRScience](https://twitter.com/dfirscience) | [YouTube](https://www.youtube.com/DFIRScience?sub_confirmation=1) |
 | Kevin Pagano | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[KevinPagano3](http://twitter.com/KevinPagano3) | [DFIR Startme Page](https://startme.stark4n6.com/) |
+| Preston McNair | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[Appalachian4n6](http://twitter.com/Appalachian4n6) | |
 | Troy Schnack | ![twitter_logo](http://i.imgur.com/wWzX9uB.png)[TroySchnack](https://twitter.com/TroySchnack) | [Blog](https://troy4n6.blogspot.com/) & [GitHub](https://github.com/TroySchnack) |
 
 * And big ♥ to anonymous donors!
