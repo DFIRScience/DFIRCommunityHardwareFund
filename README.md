@@ -34,7 +34,7 @@ Thank you so much to all of the DFIR Community Hardware Donors! Public donors ar
 
 ## Projects and Data Sets
 
-* **Meta Quest 2**
+* [**Project: Meta Quest 2**](https://github.com/DFIRScience/DFIRCommunityHardwareFund/tree/main/MetaQuest2)
 
 ## About this Fund
 
