@@ -11,23 +11,30 @@ Last updated: 2022-03-08
 
 Below are the list of hardware projects being funded. Prices include taxes and shipping.
 
-* **Meta Quest 2** ![Progress](https://progress-bar.dev/170/?scale=317&width=200&color=babaca&suffix=$)
-  * Price: $317.69 | Funded: $170.66
+* ✔ **FUNDED** | **Meta Quest 2** ![Progress](https://progress-bar.dev/317/?scale=317&width=200&color=babaca&suffix=$)
+  * Price: $317.69 | Funded: $220.66
+  * General used: $97.03
 
-* General DFIR Community Funds: **$118.98**
+* General DFIR Community Funds: **$126.44**
 
 ## Donors
 
 Thank you so much to all of the DFIR Community Hardware Donors! Public donors are listed below (a-z):
 
-* Alexis Brignoni     | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[AlexisBrignoni](https://twitter.com/AlexisBrignoni) | [LinqApp](https://linqapp.com/abrignoni)
-* Derek Eiri          | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[MrEerie](https://twitter.com/MrEerie)
-* Joshua James        | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[DFIRScience](https://twitter.com/dfirscience) | [YouTube](https://www.youtube.com/DFIRScience?sub_confirmation=1)
-* Troy Schnack        | ![twitter_logo](http://i.imgur.com/wWzX9uB.png)[TroySchnack](https://twitter.com/TroySchnack) | [Blog](https://troy4n6.blogspot.com/) | [GitHub](https://github.com/TroySchnack)
+| Name | Twitter | Website |
+| ------------- | ------------- | ------------- |
+| Alexis Brignoni | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[AlexisBrignoni](https://twitter.com/AlexisBrignoni) | [LinqApp](https://linqapp.com/abrignoni) |
+| Carlos Monteiro | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[GalloDu](https://twitter.com/GalloDu) | [GitHub](https://github.com/gallodu) |
+| Derek Eiri | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[MrEerie](https://twitter.com/MrEerie) | |
+| Joshua James | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[DFIRScience](https://twitter.com/dfirscience) | [YouTube](https://www.youtube.com/DFIRScience?sub_confirmation=1) |
+| Kevin Pagano | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[KevinPagano3](http://twitter.com/KevinPagano3) | [DFIR Startme Page](https://startme.stark4n6.com/) |
+| Troy Schnack | ![twitter_logo](http://i.imgur.com/wWzX9uB.png)[TroySchnack](https://twitter.com/TroySchnack) | [Blog](https://troy4n6.blogspot.com/) & [GitHub](https://github.com/TroySchnack) |
 
 * And big ♥ to anonymous donors!
 
-## Data Sets
+## Projects and Data Sets
+
+* **Meta Quest 2**
 
 ## About this Fund
 
