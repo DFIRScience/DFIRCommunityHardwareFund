@@ -17,9 +17,9 @@ Below are the list of hardware projects being funded. Prices include taxes and s
 
 * General DFIR Community Funds: **$228.43**
 
-## Donors
+## Sponsors
 
-Thank you so much to all of the DFIR Community Hardware Donors! Public donors are listed below (a-z):
+Thank you so much to all of the DFIR Community Hardware Sponsors! Public sponsors are listed below (a-z):
 
 | Name | Twitter | Website |
 | ------------- | ------------- | ------------- |
