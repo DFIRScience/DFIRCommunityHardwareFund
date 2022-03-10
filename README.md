@@ -15,7 +15,7 @@ Below are the list of hardware projects being funded. Prices include taxes and s
   * Price: $317.69 | Funded: $220.66
   * General used: $97.03
 
-* General DFIR Community Funds: **$228.43**
+* General DFIR Community Funds: **$238.43**
 
 ## Sponsors
 
@@ -31,6 +31,7 @@ Thank you so much to all of the DFIR Community Hardware Sponsors! Public sponsor
 | Joshua James | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[DFIRScience](https://twitter.com/dfirscience) | [YouTube](https://www.youtube.com/DFIRScience?sub_confirmation=1) |
 | Kevin Pagano | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[KevinPagano3](http://twitter.com/KevinPagano3) | [DFIR Startme Page](https://startme.stark4n6.com/) |
 | Nathan | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[nate2x4](http://twitter.com/nate2x4) | |
+| Niko Costin | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[niko4n6](https://twitter.com/niko4n6) | |
 | Preston McNair | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[Appalachian4n6](http://twitter.com/Appalachian4n6) | |
 | Troy Schnack | ![twitter_logo](http://i.imgur.com/wWzX9uB.png)[TroySchnack](https://twitter.com/TroySchnack) | [Blog](https://troy4n6.blogspot.com/) & [GitHub](https://github.com/TroySchnack) |
 
