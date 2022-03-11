@@ -28,6 +28,7 @@ Thank you so much to all of the DFIR Community Hardware Sponsors! Public sponsor
 | Arman Gungor | | [Metaspike](https://www.metaspike.com) |
 | Carlos Monteiro | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[GalloDu](https://twitter.com/GalloDu) | [GitHub](https://github.com/gallodu) |
 | Derek Eiri | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[MrEerie](https://twitter.com/MrEerie) | |
+| Josh Brunty | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[joshbrunty](https://twitter.com/joshbrunty) | |
 | Joshua James | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[DFIRScience](https://twitter.com/dfirscience) | [YouTube](https://www.youtube.com/DFIRScience?sub_confirmation=1) |
 | Kevin Pagano | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[KevinPagano3](http://twitter.com/KevinPagano3) | [DFIR Startme Page](https://startme.stark4n6.com/) |
 | Nathan | ![twitter logo](http://i.imgur.com/wWzX9uB.png)[nate2x4](http://twitter.com/nate2x4) | |
