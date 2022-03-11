@@ -6,7 +6,7 @@ Do you have a hardware recommendation? [Contact DFIRScience](https://dfir.scienc
 
 ## Hardware Projects
 
-Last updated: 2022-03-08
+Last updated: 2022-03-11
 
 
 Below are the list of hardware projects being funded. Prices include taxes and shipping.
