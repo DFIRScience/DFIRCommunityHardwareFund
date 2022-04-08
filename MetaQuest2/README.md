@@ -2,6 +2,10 @@
 
 All resources related to the Meta Quest 2 hardware will be listed here.
 
+### Documentation
+
+* 2022-04-08 [Oculus Quest 2 First Impressions](https://dfir.science/2022/04/Oculus-Quest-2-First-Impressions-and-Research-Notes)
+
 ### Data Set
 
 * [Unboxing Images](https://github.com/DFIRScience/DFIRCommunityHardwareFund/tree/main/MetaQuest2/images/unboxing)
@@ -15,6 +19,7 @@ All resources related to the Meta Quest 2 hardware will be listed here.
   * 10 donors - Thank you!
 * Ordered on 2022-03-08
 * 20220321: Unboxing images added
+* 20220408: First notes posted on [blog](https://dfir.science/2022/04/Oculus-Quest-2-First-Impressions-and-Research-Notes)
 
 ### License
 
